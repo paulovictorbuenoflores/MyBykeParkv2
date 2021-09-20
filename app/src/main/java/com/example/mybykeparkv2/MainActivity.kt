@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         Log.i("MYTAG", "Bao sô")
+        ///Rapaz funciona msm
     }
 }
